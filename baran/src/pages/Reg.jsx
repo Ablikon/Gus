@@ -1,15 +1,11 @@
 import React from "react";
-import './partner.css'
+import './Reg.css'
 
-const Partner = () => {
+const Reg = () => {
     return (
-        <>
-        <div className='div-framekak'>
-        <span className='span-contactkak'>Become a partner</span>
-      </div>
-        <div className='main-containerkak'>
+    <div className='main-containerkak'>
       <div className='frame-1kik'>
-        <span className='first-namebek'>Frist Name*</span>
+      <span className='first-namebek'>Frist Name*</span>
         <div className='rectanglebek' />
         <span className='email-addressbek'>Email Address*</span>
         <div className='rectangle-2bek' />
@@ -18,17 +14,17 @@ const Partner = () => {
         <span className='messagebek'>Message*</span>
         <div className='rectangle-4bek' />
         <button className='rectangle-buttonbek'>
-          <span className='send-nowbek'>Send Now</span>
+          <span className='send-nowbek'>Create Account</span>
         </button>
-        <span className='become-partnerbek'>Become a partner</span>
+        <span className='become-partnerbekhuda'>Create Account</span>
         <div className='frame-5bek'>
           <div className='vectorok' />
         </div>
       </div>
+      
       <div className='frame-6ok' />
     </div>
-    </>
     );
 };
 
-export default Partner;
+export default Reg;

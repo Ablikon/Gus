@@ -1,3 +1,4 @@
+
 .popular-sales { 
     margin-left: 64px;
     width: 1168px;
@@ -14,12 +15,12 @@
     } 
   } 
 
-  .heading { 
+  .headingbek { 
     color: #1d1d1d; 
     font: 500 30px/120% Inter, -apple-system, Roboto, Helvetica, sans-serif;
   } 
 
-  .view-more-container { 
+  .view-more-containerbek { 
     font-family: Inter, sans-serif;
     font-weight: 400;
     display: flex; 
@@ -32,7 +33,7 @@
     justify-content: space-between; 
   } 
 
-  .view-more { 
+  .view-morebek { 
     font-family: Inter, sans-serif; 
     background: none; 
     border: none; 
@@ -43,7 +44,7 @@
     font: inherit; 
   } 
 
-  .arrow-icon { 
+  .arrow-iconbek { 
     aspect-ratio: 1.22; 
     object-fit: auto; 
     object-position: center; 
@@ -66,15 +67,15 @@
     display: flex; 
     justify-content: space-between; 
   }
-  .canopoly{
+  .canopolyhan{
     display: block;
     width: 370px;
     max-width: 100%;
   }
-  .header {
+  .headerbek {
     text-align: center;
   }
-  .title {
+  .titlebek {
     color: #1d1d1d;
     font: 500 30px/120% Inter, -apple-system, Roboto, Helvetica, sans-serif;
   }

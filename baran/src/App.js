@@ -7,6 +7,7 @@ import About from "./pages/about";
 import Contacts from "./pages/Contacts";
 import Partner from "./pages/Partner";
 import Basket from "./pages/Basket";
+import Auth from "./pages/Auth";
 
 
 const App = () => {
@@ -20,6 +21,7 @@ const App = () => {
           <Route path="/contacts" element={<Contacts/>}/>
           <Route path="/partner" element={<Partner/>}/>
           <Route path="/basket" element={<Basket/>}/>
+          <Route path="/Auth" element={<Auth/>}/>
         </Routes>
     </BrowserRouter>
   );

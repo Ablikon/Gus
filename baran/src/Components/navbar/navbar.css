@@ -1,10 +1,10 @@
-.header {
+.headerbeku {
   justify-content: center;
   display: flex;
   flex-direction: column;
   background-color: #fff;
 }
-.header-wrapper {
+.header-wrapperbeku {
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -13,23 +13,23 @@
   padding: 17px 45px;
   gap: 20px;
 }
-.logo-container {
+.logo-containerbeku {
   display: flex;
   align-items: center;
   gap: 10px;
 }
-.logo {
+.logobeku {
   width: 44px;
   aspect-ratio: 1.1;
 }
-.site-name {
+.site-namebeku {
   text-decoration: none;
   font-family: Inter, sans-serif;
   font-size: 30px;
   font-weight: 800;
   color: #ffb321;
 }
-.search-form {
+.search-formbeku {
   width: 517px;
   display: flex;
   align-items: center;
@@ -38,13 +38,13 @@
   border-radius: 3px;
   background-color: #fff;
 }
-.search-input {
+.search-inputbeku {
   font-size: 12px;
   padding: 14px 20px;
   border: none;
   flex: 1;
 }
-.search-button {
+.search-buttonbeku {
   padding: 11px 23px;
   background-color: #ffb321;
   border: none;
@@ -53,32 +53,32 @@
   font-size: 15px;
   cursor: pointer;
 }
-.user-actions {
+.user-actionsbeku {
   display: flex;
   align-items: center;
   gap: 14px;
 }
-.user-icon{
+.user-iconbeku{
   width: 31px;
   aspect-ratio: 1.11;
   height: 38px;
 }
-.cart-icon{
+.cart-iconbeku{
   height: 38px;
   width: 31px;
   aspect-ratio: 1.11;
 }
-.notification-icon {
+.notification-iconbeku {
   height: 26px;
   width: 31px;
   aspect-ratio: 1.11;
 }
-.cart-container {
+.cart-containerbeku {
   display: flex;
   align-items: center;
   position: relative;
 }
-.cart-count {
+.cart-countbeku {
   position: absolute;
   top: -5px;
   right: -5px;
@@ -88,13 +88,13 @@
   font-size: 9px;
   font-weight: 800;
 }
-.footer {
+.footerbeku {
   width: 100%;
   max-width: 1313px;
   background-color: #ffb321;
   padding: 20px 60px;
 }
-.footer-wrapper {
+.footer-wrapperbeku {
   height: 20px;
   position: static;
   display: flex;
@@ -104,19 +104,19 @@
   max-width: 1300px;
   width: 100%;
 }
-.nav-links {
+.nav-linksbeku {
   margin-left: 517px;
   display: flex;
   gap: 20px;
 }
-.nav-link {
+.nav-linkbeku {
   text-decoration: none;
   font-family: Inter, sans-serif;
   font-size: 15px;
   font-weight: 600;
   color: #000;
 }
-.become-partner {
+.become-partnerbeku {
   display: flex;
   align-items: center;
   gap: 7px;
@@ -124,26 +124,26 @@
   border-radius: 3px;
   padding: 9px;
 }
-.partner-link {
+.partner-linkbeku {
   color: black;
   text-decoration: none;
   font-family: Inter, sans-serif;
   font-size: 15px;
   font-weight: 600;
 }
-.partner-icon {
+.partner-iconbeku {
   width: 6px;
   aspect-ratio: 0.6;
 }
 @media (max-width: 991px) {
-  .header-wrapper,
-  .footer-wrapper {
+  .header-wrapperbeku,
+  .footer-wrapperbeku {
     flex-wrap: wrap;
     padding: 0 20px;
   }
-  .search-button,
-  .site-name,
-  .nav-link {
+  .search-buttonbeku,
+  .site-namebeku,
+  .nav-linkbeku {
     text-decoration: none;
     white-space: initial;
     padding: 0 20px;

@@ -1,0 +1,251 @@
+.div-framekak {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    gap: 10px;
+    position: relative;
+    width: 1050px;
+    margin: 0 0 0 0.5px;
+    padding: 55px 903px 55px 903px;
+    background: #fffaef;
+    z-index: 56;
+    overflow: hidden;
+  }
+
+
+  .span-contactkak {
+    width: 1700px;
+    flex-shrink: 0;
+    flex-basis: auto;
+    position: relative;
+    height: 36px;
+    color: #222222;
+    font-family: Inter, var(--default-font-family);
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    white-space: nowrap;
+    z-index: 57;
+  }
+
+
+:root {
+    --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+      "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+      "Source Han Sans CN", sans-serif;
+  }
+  
+  .main-containerkak {
+    overflow: hidden;
+  }
+  
+  .main-containerkak,
+  .main-containerkak * {
+    box-sizing: border-box;
+  }
+  
+  input,
+  select,
+  textarea,
+  button {
+    outline: 0;
+  }
+  
+  .main-containerkak {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    gap: 30px;
+    position: relative;
+    width: 1550px;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+    overflow: hidden;
+  }
+  .frame-1kik {
+    flex-shrink: 0;
+    position: relative;
+    width: 554px;
+    height: 674px;
+    font-size: 0px;
+    background: #ffffff;
+    border: 1px solid #efefef;
+    border-radius: 3px;
+  }
+  .first-namebek {
+    display: block;
+    position: relative;
+    height: 20px;
+    margin: 120px 0 0 40px;
+    color: #797979;
+    font-family: Inter, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 9;
+  }
+  .rectanglebek {
+    position: relative;
+    width: 472px;
+    height: 50px;
+    margin: 10px 0 0 41px;
+    background: #ffffff;
+    border: 1px solid #efefef;
+    z-index: 3;
+  }
+  .email-addressbek {
+    display: block;
+    position: relative;
+    height: 20px;
+    margin: 17px 0 0 40px;
+    color: #797979;
+    font-family: Inter, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 10;
+  }
+  .rectangle-2bek {
+    position: relative;
+    width: 472px;
+    height: 50px;
+    margin: 10px 0 0 41px;
+    background: #ffffff;
+    border: 1px solid #efefef;
+    z-index: 4;
+  }
+  .phone-numberbek {
+    display: block;
+    position: relative;
+    height: 20px;
+    margin: 17px 0 0 40px;
+    color: #797979;
+    font-family: Inter, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 11;
+  }
+  .rectangle-3bek {
+    position: relative;
+    width: 472px;
+    height: 50px;
+    margin: 10px 0 0 41px;
+    background: #ffffff;
+    border: 1px solid #efefef;
+    z-index: 5;
+  }
+  .messagebek {
+    display: block;
+    position: relative;
+    height: 20px;
+    margin: 17px 0 0 40px;
+    color: #797979;
+    font-family: Inter, var(--default-font-family);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    z-index: 12;
+  }
+  .rectangle-4bek {
+    position: relative;
+    width: 474px;
+    height: 105px;
+    margin: 9px 0 0 40px;
+    background: #ffffff;
+    border: 1px solid #efefef;
+    z-index: 6;
+  }
+  .rectangle-buttonbek {
+    position: relative;
+    width: 474px;
+    height: 50px;
+    margin: 27px 0 0 40px;
+    cursor: pointer;
+    background: #ffb320;
+    border: none;
+    z-index: 7;
+    border-radius: 3px;
+  }
+  .send-nowbek {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    top: 15px;
+    left: calc(50% - 44.5px);
+    color: #000000;
+    font-family: Inter, var(--default-font-family);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 13;
+  }
+  .become-partnerbekhuda {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    height: 51px;
+    top: 40px;
+    left: calc(50% - 16px);
+    color: #222222;
+    font-family: Inter, var(--default-font-family);
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 51px;
+    text-align: left;
+    white-space: nowrap;
+    z-index: 8;
+  }
+  .frame-5bek {
+    position: absolute;
+    width: 354px;
+    height: 30px;
+    top: 70px;
+    left: 99px;
+    z-index: 1;
+    overflow: hidden;
+  }
+  .vectorok {
+    position: relative;
+    width: 354px;
+    height: 30px;
+    margin: 0 0 0 0;
+    background: url(../assets/images/5a7c4067-c190-4991-bb87-88a87a6d1404.png)
+      no-repeat center;
+    background-size: 100% 100%;
+    z-index: 2;
+  }
+  .frame-6ok {
+    flex-shrink: 0;
+    position: relative;
+    width: 655px;
+    height: 518px;
+    background: url(../assets/images/2e01095e-b6da-43cb-82dd-9f64f9befecb.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 14;
+    overflow: hidden;
+  }
+  
