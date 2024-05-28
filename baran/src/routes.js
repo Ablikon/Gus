@@ -10,7 +10,6 @@ import About from "./pages/About"
 import Reg from "./pages/Reg"
 import Partner from "./pages/Partner"
 import Favorites from "./pages/Favorites"
-import { ABOUT_ROUTE } from "./utils/consts"
 import { Component } from "react"
 
 export const authRoutes = [
